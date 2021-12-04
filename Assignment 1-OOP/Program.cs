@@ -2,8 +2,6 @@
 using System;
 
 
-
-
 namespace assignment1
 {
     static class Program
@@ -43,12 +41,8 @@ namespace assignment1
 
         }
 
-
-
-
         public class Car
         {
-
 
             public void Start()
             {
@@ -82,8 +76,6 @@ namespace assignment1
 
 
         }
-
-
         //Abstraction
         public abstract class A
         {
@@ -102,9 +94,6 @@ namespace assignment1
             }
         }
 
-
-
-
         //Inheritence
         public class Inheritence
         {
@@ -117,10 +106,7 @@ namespace assignment1
                 }
             }
 
-
         }
-
-
         //Polymorphism
         public class Polymorphism
         {
@@ -134,19 +120,7 @@ namespace assignment1
                     Console.WriteLine(FirstName + " " + LastName);
 
                 }
-
-
             }
-
-
-
-
         }
-
-
-
-
-
     }
-
 }
