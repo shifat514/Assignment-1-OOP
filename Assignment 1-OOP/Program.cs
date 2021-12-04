@@ -48,9 +48,7 @@ namespace assignment1
 
         public class Car
         {
-            // int speed;
-            // string color;
-            // float price;
+
 
             public void Start()
             {
